@@ -1,0 +1,8 @@
+Games References
+-----------------
+
+Batocera Bios: https://github.com/Abdess/retroarch_system/releases
+
+ROM Download: https://vimm.net/?p=vault
+Mame2003plus Roms: https://archive.org/details/MAME_2003-Plus_Reference_Set_2018
+Mame2010 Roms: https://archive.org/details/MAME_2010_full_nonmerged_romsets

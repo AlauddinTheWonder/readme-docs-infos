@@ -1,0 +1,33 @@
+Install ps3 bios in batocera
+===================
+
+https://www.youtube.com/watch?v=CgCMgE_GifY
+
+
+- Download updated (PlayStation®3 System Software Update 4.89)
+	- PS3UPDAT.pup
+
+https://www.playstation.com/en-in/support/hardware/ps3/system-software/
+
+
+Installation:
+
+1. Copy and paste "PS3UPDAT.pup" file into batocera bios folder.
+2. Click on "Applications" tab on left menu list.
+3. Open "rpcs3-config" application.
+3. Goto file->Install Firmware and select "PS3UPDAT.pup" file to update latest firmware. It may take several minutes.
+4. Next quit and follow next step to copy ps3 games in roms folder.
+
+Prepare ps3 roms:
+
+1. Extract game's file (.iso or .7z)
+2. Open extracted folder and rename internal folder with new name as follows:
+	- rename folder without space and put ".ps3" as the end of the folder name.
+	- Ex. If game name is "Afro Samurai USA" then rename it to "Afro-Samurai.ps3"
+3. Now copy this folder to batocera's roms/ps3 folder.
+
+
+
+
+Download rooms: https://vimm.net/vault/PS3
+

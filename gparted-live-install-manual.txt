@@ -1,0 +1,12 @@
+Install gparted on windows machine. (Manually on partition)
+
+1. Download the GParted Live zip file.
+2. If you already have a partition of at least 600 MB in size on your USB flash drive formatted with a FAT32 file system then skip to the next step (3).
+3. Otherwise create at least a 600 MB partition on your USB flash drive and format it with a FAT32 file system.
+	i. The partition must be large enough to hold the extracted contents of the GParted Live zip file.
+4. Extract all the contents of the zip file to FAT32 partition on your USB flash drive. Keep the directory architecture, for example, file "GPL" should be in the USB flash drive's top directory (e.g. G:\GPL).
+5. Browse to your USB flash drive and goto "utils/win32/" and right click on "makeboot.bat" file and create a shortcut to your Desktop.
+6. On your Desktop, right click on "makeboot.bat" shortcut file and click on "Run as administrator" option.
+	WARNING! Makeboot.bat must be run from your USB flash drive.
+7. Follow the on-screen instructions.
+
